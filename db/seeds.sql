@@ -1,3 +1,3 @@
-INSERT INTO burger (burger_name) VALUES ('Big Mac');
-INSERT INTO burger (burger_name) VALUES ('Impossible Whopper');
-INSERT INTO burger (burger_name, sleepy) VALUES ('Veggie Burger', true);
+INSERT INTO burgers (burger_name) VALUES ('Big Mac');
+INSERT INTO burgers (burger_name) VALUES ('Impossible Whopper');
+INSERT INTO burgers (burger_name, devoured) VALUES ('Veggie Burger', true);
